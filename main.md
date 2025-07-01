@@ -17,3 +17,6 @@
 
 ![alt text](1696321658724.jpg)
 
+
+
+### here you need to understand language.
