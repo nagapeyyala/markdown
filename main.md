@@ -22,3 +22,12 @@
 ### here you need to understand language.
 - things should you learn
 - many many happy returns of the day
+
+**i know you are genius**
+
+*i know you are genius*
+```
+curl comamnd
+wget 
+
+```
