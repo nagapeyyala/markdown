@@ -13,4 +13,7 @@
 ![Alt text for image](image-url.jpg)
 
  [referhere] https://directai.blog/gen-ai-classroom-notes/
- 
+
+
+![alt text](1696321658724.jpg)
+
